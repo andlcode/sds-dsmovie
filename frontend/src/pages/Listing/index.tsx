@@ -1,7 +1,10 @@
+import Pagination from "components/Pagination";
+
 function Listing() {
 
     return(
-        <h1>goku</h1>
+        <Pagination />
+  
     );
 
 }
